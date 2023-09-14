@@ -1,0 +1,9 @@
+Notas:
+
+1- Version de Java Usada es la 11
+2- Version de Apache Netbeans es la 19
+3- Version del conector es la j-8.1.0 
+( La cadena de conexión puede variar entre versiones del conector)
+4- La base de datos se creo y trabajo con Xampp control panel v3.3.0
+
+
